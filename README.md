@@ -63,8 +63,10 @@ P.S.: Bu giriş Türkçe ve İngilizce olmasına karşın, yazılan işlemlerin 
 
 
 Do Something to Save Yazidi Women,
+
 Yezidi Kadınları Kurtarmak için Bir Şey Yapın,
 
 Peace & Love,
+
 Barış & Sevgi ile
 
