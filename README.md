@@ -61,12 +61,14 @@ Bu depo eski dilleri kodlarken kullandığım betikleri derlemek için. Eski dil
 
 P.S.: Bu giriş Türkçe ve İngilizce olmasına karşın, yazılan işlemlerin belgeleme kısımlarında (docstring) ve yorum bölümlerinde İngilizce + kendi anadiliniz + eklemek istediğiniz diğer dillerin olmasını destekliyorum. Hatta bilakis teşvik ediyorum.
 
-
-Do Something to Save Yazidi Women,
-
-Yezidi Kadınları Kurtarmak için Bir Şey Yapın,
+Susmayın,       
+korksanız da susmayın,     
+bağarmasanız da fısıldayın,       
+susmayın
 
 Peace & Love,
 
-Barış & Sevgi ile
+An academic for peace
 
+Barış, Sevgi ve Dayanışma,      
+Barış için bir akademisyen
