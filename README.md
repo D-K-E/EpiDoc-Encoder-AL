@@ -1,14 +1,14 @@
-EpiDoc-Encoder-ANL
+EpiDoc-Encoder-AL
 ==============================
 
-EpiDoc Encoder for Ancient Near Eastern Languages
+EpiDoc Encoder for Ancient Languages
 ---------------------------------------
 
 Türkçesi için aşağıya bakınız
 
 This is a repository for assembling scripts that I have been using for encoding ancient languages. It is designed to facilitate encoding ancient languages to EpiDoc xml-format. 
 
-####It has two major goals:
+### It has two major goals:
 
 1. Prepare text for encoding:
 
@@ -27,7 +27,9 @@ This is a repository for assembling scripts that I have been using for encoding 
 * Elamite (and its variants, Neo-Elamite, Achemenid Elamite, etc)
 * Akkadian (and its variants, Paleo-Babylonian, Neo-Assyrian, etc)
 * Old Persian
+* Latin
 * Official Aramaic
+* Ancient Greek
 * Others depending on _your_ contribution
 
 P.S.: Though this readme is in English and Turkish, i encourage contributors use English plus their native language plus any other languages they want to add in docstrings and comments of the functions. 
@@ -56,17 +58,21 @@ Bu depo eski dilleri kodlarken kullandığım betikleri derlemek için. Eski dil
 * Elamca (ve lehçeleri, Yeni-Elamca, Hakağmanişiya Elamcası, vs)
 * Akatça (ve lehçeleri, Paleo-Babilce, Yeni-Asurca, vs)
 * Eski Farsça
+* Latince
 * Resmi Aramice 
+* Eski Yunanca
 * Ve _sizin_ katkılarınız sayesinde diğerleri
 
 P.S.: Bu giriş Türkçe ve İngilizce olmasına karşın, yazılan işlemlerin belgeleme kısımlarında (docstring) ve yorum bölümlerinde İngilizce + kendi anadiliniz + eklemek istediğiniz diğer dillerin olmasını destekliyorum. Hatta bilakis teşvik ediyorum.
 
-
-Do Something to Save Yazidi Women,
-
-Yezidi Kadınları Kurtarmak için Bir Şey Yapın,
+Susmayın,       
+korksanız da susmayın,     
+bağarmasanız da fısıldayın,       
+susmayın
 
 Peace & Love,
 
-Barış & Sevgi ile
+An academic for peace
 
+Barış, Sevgi ve Dayanışma,      
+Barış için bir akademisyen
