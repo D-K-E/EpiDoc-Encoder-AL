@@ -8,6 +8,8 @@ python:
 
 before_script:
   - pip install --upgrade pip
-  - pip install -r requirements.txt
+  #- pip install -r requirements.txt
+  - pip install codecov
+  - pip install coveralls
   
-script: pytest ee-al
+script: nosetests --no-skip --with-coverage
